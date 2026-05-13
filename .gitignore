@@ -1,0 +1,31 @@
+# Bytecode / Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environments
+njirlah-dataset-env/
+env/
+venv/
+.env
+.venv
+
+# Data & Outputs
+checkpoint-*/
+checkpoint-50
+outputs/
+outputs_njirlah_oss1/
+kaggle_output/
+kaggle_v4_output/
+tencent_instance_info.json
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+  "id": "smncopyright/njirlah-oss-1-mega-finetune-final",
+  "title": "NJIRLAH-OSS-1 Mega Finetune (Final)",
+  "code_file": "njirlah-mega-final.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": [],
+  "docker_image_pinning_type": "original",
+  "accelerator": "nvidiaTeslaT4"
+}

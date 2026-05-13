@@ -1,0 +1,15 @@
+{
+  "id": "smncopyright/njirlah-mega-run4",
+  "title": "NJIRLAH Mega Run 4",
+  "code_file": "njirlah-run4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

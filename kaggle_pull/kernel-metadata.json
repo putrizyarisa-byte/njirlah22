@@ -1,0 +1,21 @@
+{
+  "id": "smncopyright/njirlah-oss-1-v4-mega-finetune-oom-fixed",
+  "id_no": 118857809,
+  "title": "NJIRLAH-OSS-1 V4 Mega Finetune (OOM Fixed)",
+  "code_file": "njirlah-oss-1-v4-mega-finetune-oom-fixed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "smncopyright/njirlah-1-ss-final-datasets"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:00377cd1b3d470a605bc5b0ceca79969e369644e9b36802242a1c70e627372f9",
+  "machine_shape": "Gpu"
+}
